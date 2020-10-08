@@ -1,6 +1,5 @@
 # xzLTR.github.io
 <html>
-	<head>克苏鲁神话</head>
 	<body>		
 		<h1>克苏鲁神话</h1>
 		<h2>简介</h2>
